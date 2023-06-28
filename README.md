@@ -20,4 +20,4 @@ _L'apk dell'applicazione può essere scaricato al seguente link_ <br>
 Android-APK: [Cloud Unipa](https://cloud.unipa.it/index.php/s/6fkSP6Qh6qGpSSB)
 
 **Informazioni d'utilizzo**
-L'applicazione può essere eseguita esclusivamente all'interno del dominio _vpngp.unipa.it_ poiché il server è all'interno del Laboratorio d'Interazione Uomo-Macchina, Dipartimento di Ingegneria, Università degli Studi di Palermo. 
+L'applicazione può essere eseguita esclusivamente all'interno della rete wifi di Unipa poiché il server è all'interno del Laboratorio d'Interazione Uomo-Macchina, Dipartimento di Ingegneria, Università degli Studi di Palermo. 
