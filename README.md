@@ -16,7 +16,7 @@ l’eventuale necessità di modificare posologia e/o schema terapeutico. Questi 
 Conclusioni: Tali registrazioni costituiranno un archivio che potrà essere consultato secondo diversi criteri al fine di generare delle esportazioni dei dati in formato di interscambio perché possano essere valutati successivamente con strumenti di analisi statistica che non sono oggetto della presente progettazione.
 
 **Code avaibility**
-_L'apk dell'applicazione può essere scaricato al seguente link_
+_L'apk dell'applicazione può essere scaricato al seguente link_ <br>
 Android-APK: [Cloud Unipa](https://cloud.unipa.it/index.php/s/6fkSP6Qh6qGpSSB)
 
 **Informazioni d'utilizzo**
