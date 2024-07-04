@@ -17,7 +17,7 @@ Conclusioni: Tali registrazioni costituiranno un archivio che potrà essere cons
 
 **Code avaibility**
 _L'apk dell'applicazione può essere scaricato al seguente link_ <br>
-Android-APK: [Cloud Unipa](https://cloud.unipa.it/index.php/s/6fkSP6Qh6qGpSSB)
+Android-APK: [Cloud Unipa](https://cloud.unipa.it/index.php/s/VBP37leq0qSd6q8)
 
 **Informazioni d'utilizzo**
 Al momento l'applicazione può essere eseguita esclusivamente all'interno della rete wifi di Unipa poiché il server è all'interno del Laboratorio d'Interazione Uomo-Macchina, Dipartimento di Ingegneria, Università degli Studi di Palermo. 
